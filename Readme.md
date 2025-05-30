@@ -55,7 +55,7 @@ tsc example.ts
 tsc
 
 # Watch mode (recompile on changes)
-tsc --watch
+tsc --w
 ```
 
 ## Configuration
@@ -84,7 +84,3 @@ Create a `tsconfig.json` file to configure TypeScript compiler options:
 - [Official TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [TypeScript Playground](https://www.typescriptlang.org/play)
-
-## License
-
-This project is licensed under the MIT License.
